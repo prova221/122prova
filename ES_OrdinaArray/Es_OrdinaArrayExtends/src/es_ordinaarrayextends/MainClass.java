@@ -19,6 +19,7 @@ public class MainClass {
     public static void main(String[] args) {
         // TODO code application logic here
 
+        //Prova GIT
         vet = new int[100];
         caricaArray(vet);
         System.out.println("");
